@@ -38,9 +38,3 @@ This Arduino-based project implements an **Obstacle Avoidance Robot** with **Lin
 - Add more sensors for better **obstacle detection** and **navigation**.
 - Integrate a **wireless control system** using Bluetooth or Wi-Fi.
 
----
-
-Feel free to modify and extend this project to suit your needs!
-
-## License:
-This project is open-source under the [MIT License](LICENSE).
